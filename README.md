@@ -1,7 +1,5 @@
 # carol
 <html>
-<head>
-<title>Feliz Ano Novo Amor!</title>
 <body style=background-color:rgb(77,160,253)>
 <p>
 <h1 align="center">Por todo esse tempo juntos!</h1></p>
